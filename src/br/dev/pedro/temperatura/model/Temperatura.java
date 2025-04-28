@@ -9,7 +9,7 @@ public class Temperatura {
 	}
 
 	public void setCelsius(double celsius) {
-		
+
 		this.celsius = celsius;
 	}
 
